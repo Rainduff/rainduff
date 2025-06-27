@@ -18,7 +18,7 @@ A SQL-based ticketing database project with CRUD operations, ideal for learning 
 A fun and local-style CLI-based expense logger using SQLite and Python.
 
 
-### 🎓 [PhD: AI for Predictive Maintenance in Oil & Gas](https://github.com/rainduff/PhD-Research-Predictive-Maintenance)
+### 🎓 [AI for Predictive Maintenance in Oil & Gas](https://github.com/rainduff/PhD-Research-Predictive-Maintenance)
 Doctoral research combining machine learning, sensor data, and reliability engineering.
 
 ---
