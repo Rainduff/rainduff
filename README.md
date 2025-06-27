@@ -33,7 +33,7 @@ Doctoral research combining machine learning, sensor data, and reliability engin
 
 ## 🤝 Let’s Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/YOUR-NAME)
+- 🔗 [LinkedIn]((https://www.linkedin.com/in/utomobong-duff-52b245232/))
 - 🌐 [Website or Notion Portfolio](#)
-- ✉️ [Email](mailto:yourname@example.com)
+- ✉️ [Email](utomobongdduff@gmail.com)
 
