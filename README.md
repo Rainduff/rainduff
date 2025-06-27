@@ -2,15 +2,38 @@
 
 <!--
 **Rainduff/rainduff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+# 👋 Hi, I'm Utomobong Duff
+
+I’m a visionary developer, researcher, and creator building solutions that combine **AI, Blockchain, and immersive technologies** for real-world transformation in education, finance, culture, and social impact.
+
+---
+
+## 🚀 Featured Projects
+
+### 🎟️ [Cinema Ticket Booking System](https://github.com/rainduff/Cinema-Ticket-Booking-System)
+A SQL-based ticketing database project with CRUD operations, ideal for learning and deployment prototypes.
+
+### 🧾 [Naija Expense Tracker](https://github.com/rainduff/Naija-Expense-Tracker)
+A fun and local-style CLI-based expense logger using SQLite and Python.
+
+
+### 🎓 [PhD: AI for Predictive Maintenance in Oil & Gas](https://github.com/rainduff/PhD-Research-Predictive-Maintenance)
+Doctoral research combining machine learning, sensor data, and reliability engineering.
+
+---
+
+## 🛠 Skills
+
+**Languages:** Python, SQL, JavaScript  
+**Tools:** TensorFlow, PyTorch, Jupyter, Git, SQLite, PostgreSQL  
+**Tech Domains:** AI/ML, Blockchain, Speech Technology, EdTech, FinTech, Culture-Tech
+
+---
+
+## 🤝 Let’s Connect
+
+- 🔗 [LinkedIn](https://linkedin.com/in/YOUR-NAME)
+- 🌐 [Website or Notion Portfolio](#)
+- ✉️ [Email](mailto:yourname@example.com)
+
